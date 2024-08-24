@@ -9,6 +9,7 @@ html {
 }
 
 .grid-container {
+  grid-template-rows: 15rem 15rem 15rem 15rem 15rem 15rem 15rem 15rem 15rem;
   display: grid;
 }
 
